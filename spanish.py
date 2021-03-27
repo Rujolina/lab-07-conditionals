@@ -1,4 +1,4 @@
-translator = input("Give me a word in English")
+translator = input("Give me a word in English ")
 
 if translator == "cat" or translator == "CAT":
     print("gato")

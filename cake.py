@@ -1,8 +1,8 @@
-cakeorbust = input("Do you want cake? (Yes/No)")
+cakeorbust = input("Do you want cake? (Yes/No) ")
 
-if cakeorbust == "yes"|| cakeorbust == "YES":
+if cakeorbust == "yes" or cakeorbust == "YES":
         print("Have some cake!")
-elif cakeorbust == "no"|| cakeorbust === "NO":
+elif cakeorbust == "no" or cakeorbust == "NO":
         print("No cake for you!")
 else:
         print("Sorry, I don't understand.")
